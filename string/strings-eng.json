@@ -1,0 +1,214 @@
+
+{
+  "lang": "en",
+  "translate": "traduci",
+  "description": "Fabrizio Silvestri Website | ICL-PRO Technical and Developer",
+  "credentials": "Silvestri Fabrizio",
+  "keywords": "web developer, web designer, computer, technology, website",
+  "title": "Silvestri Fabrizio | Developer",
+  "knowledge":"Knowledges",
+  "portfolio":"Portfolio",
+  "training": "Training",
+  "team":"Team",
+  "contact":"Contact me",
+
+  "introSubtitle": "This is my website",
+  "introTitle": "Welcome",
+  "introButton": "More",
+
+  "knowledgeSubtitle": "What I learned in my studies",
+  "knowledges": [
+    {
+      "icon": "fa-database",
+      "title": "Database",
+      "body": "Design and maintenance of SQL Database (MySQL and PostgreSQL) and basic knowledge of NoSQL Database (MongoDB)."
+    },
+    {
+      "icon": "fa-code",
+      "title": "Web Application",
+      "body": "I have a very good knowledge of programming languages such as HTML5, CSS3, JS and PHP."
+    },
+    {
+      "icon": "fa-android",
+      "title": "App Android",
+      "body": "Project and development of android applications with care for design and user experience."
+    },
+    {
+      "icon": "fa-laptop",
+      "title": "C# e Java",
+      "body": "Good level of object-oriented programming and knowledge of Eclipse and Visual Studio IDE."
+    },
+    {
+      "icon": "fa-bug",
+      "title": "Testing",
+      "body": "I test my software via Framework (JUnit, NUnit)."
+    },
+    {
+      "icon": "fa-code-fork",
+      "title": "Versioning",
+      "body": "Excellent knowledge of the GIT terminal commands and of GitHub portal."
+    }
+  ],
+
+  "portfolioSubtitle": "My Projects",
+  "visit": "visit",
+  "relation": "relation",
+  "date": "Date",
+  "category": "Category",
+  "closeProject": "Close Project",
+  "projects": [
+    {
+      "img": "img/portfolio/EventAround-thumbnail.jpg",
+      "title": "EventAround",
+      "subtitle": "Websito to find events.",
+      "preview": "img/portfolio/EventAround-full.jpg",
+      "description": "Developed for a university project. The application allows you to search on a map events entered by users using search filters. <br/> Each user can add new events and manage them, report their interest in other events and view the profiles of other users. <Br / > The project also contains a part reserved for administrators to help manage the platform.",
+      "link": "http://webdev.dibris.unige.it/~S4116422",
+      "relation": "pdf/EventAround.pdf",
+      "date": "July 2017",
+      "for": "Course: Web Application Development - UNIGE",
+      "category": "Web"
+    },
+    {
+      "img": "img/portfolio/EventAroundApp-thumbnail.jpg",
+      "title": "EventAround App",
+      "subtitle": "Android App to find events.",
+      "preview": "img/portfolio/EventAroundApp-full.png",
+      "description": "Application that incorporates the functionality of the previously developed EventAround site. <br/> It allows you to search for events and add them to the system. It also has the functionality of notifying the presence of affected events and other features.",
+      "link": null,
+      "relation": "pdf/EventAroundApp.pdf",
+      "date": "October 2017",
+      "for": "Course: Algorithm Design and Analysis Laboratory - UNIGE",
+      "category": "Android"
+    },
+    {
+      "img": "img/portfolio/Parisi-thumbnail.jpg",
+      "title": "Rocco Parisi",
+      "subtitle": "Site of the musician Rocco Parisi.",
+      "preview": "img/portfolio/Parisi-full.jpg",
+      "description": "Dynamic site that allows you to view all the new activities of the musician updated through an administrative area.",
+      "link": "http://www.roccoparisi.com",
+      "relation": null,
+      "date": "September 2017",
+      "for": "Client: Rocco Parisi",
+      "category": "Web"
+    },
+    {
+      "img": "img/portfolio/ASDI-thumbnail.jpg",
+      "title": "A.S.D.I. Liguria",
+      "subtitle": "Site for O.N.L.U.S. Association",
+      "preview": "img/portfolio/ASDI-full.jpg",
+      "description": "Update of the A.S.D.I. Liguria website implementing a responsive design and greater fluidity in the nanvigation in order to immediately obtain the main information. Developed using Bootstrap animations and graphics.",
+      "link": "http://silvestri.online/ASDILiguria/",
+      "relation": null,
+      "date": "December 2017",
+      "for": "Clients: A.S.D.I. Liguria",
+      "category": "web"
+    }
+  ],
+
+  "trainingSubtitle": "My name is Fabrizio Silvestri and I was born in Genoa on May 1993.",
+  "stages": [
+    {
+      "img": "img/about/1.jpg",
+      "date": "2012",
+      "title": "Diploma Superiori",
+      "description": "Mi sono diplomato all'ITIS I. Calvino di Genova, indirizzo Scientifico Tecnologico. Lo stesso anno mi sono iscritto ad Ingegneria Informatica."
+    },
+    {
+      "img": "img/about/2.jpg",
+      "date": "2014",
+      "title": "Iscrizione Scienze Informatiche",
+      "description": "Ho riconosciuto che ingegneria non era la strada corretta per me e ho deciso di iscrivermi al corso di Laurea in Informatica sempre presso l'Università degli Studi di Genova."
+    },
+    {
+      "img": "img/about/3.jpg",
+      "date": "Ottobre 2016",
+      "title": "Corso ICL-PRO",
+      "description": "Ho seguito un corso presso l'Istituto Gamma di Milano ottenendo la certificazione ICL-PRO Technical Specialist. Ho maturato così le competenze da Tecnico Informatico."
+    },
+    {
+      "img": "img/about/5.jpg",
+      "date": "11/2017 to 02-/2018",
+      "title": "Internship with IFM Group",
+      "description": "I have done a internship with IFM Group where I have develop a Web Dashboard to visualize users data. I done experience with Angular 5 framework and this is the main argument of my thesis."
+    },
+    {
+      "img": "img/about/4.jpg",
+      "date": "2018",
+      "title": "Computer Science degree",
+      "description": "I plan to complete my studies in July of 2018."
+    }
+
+  ],
+  "my": "my",
+  "curriculum":"CV_Silvestri_en",
+
+  "teamSubtitle": "A Teamwork",
+  "name": "Fabrizio",
+  "group": [
+    {
+      "img": "img/team/1.jpg",
+      "role": "Database Admin"
+    },
+    {
+      "img": "img/team/2.jpg",
+      "role": "Developer"
+    },
+    {
+      "img": "img/team/3.jpg",
+      "role": "UI Designer"
+    }
+  ],
+  "links": [
+    {
+      "link": "https://www.facebook.com/fabrizio.silvestri.33",
+      "icon": "fa-facebook"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabrizio-silvestri-96432b142/",
+      "icon": "fa-linkedin"
+    },
+    {
+      "link": "https://github.com/FabriSilve",
+      "icon": "fa-github"
+    }
+  ],
+  "aboutMe": "Currently I do computer support, design and development of websites of varying complexity, desktop and mobile applications mainly to test the knowledge that my studies have provided me. <br/> I see each new project as a personal challenge in which I commit myself to grow further my skills.",
+
+  "badgesTitle": "My Badges",
+  "badges" : [
+    {
+      "link": "https://www.codeschool.com/learn-angular-js-with-bootstrap",
+      "img": "img/bedges/angular.png",
+      "alt": "Angular - CodeSchool"
+    },
+    {
+      "link": "https://www.codeschool.com/mean",
+      "img": "img/bedges/mean.png",
+      "alt": "MEAN - CodeSchool"
+    },
+    {
+      "link": "https://www.codeschool.com/courses/real-time-web-with-node-js",
+      "img": "img/bedges/nodejs.png",
+      "alt": "NodeJS - CodeSchool"
+    },
+    {
+      "link": "https://www.codeschool.com/courses/blasting-off-with-bootstrap",
+      "img": "img/bedges/bootstrap.png",
+      "alt": "Bootstrap - CodeSchool"
+    },
+    {
+      "link": "https://corsosicurezza.aulaweb.unige.it/",
+      "img": "img/bedges/SicurezzaeSalute.png",
+      "alt": "Sicurezza E Salute - UNIGE"
+    }
+
+  ],
+
+  "contactSubtitle": "I will answer you as soon as possible.",
+  "contactName": "Your Name",
+  "contactMail": "Your Email",
+  "contactMessage": "Your Message",
+  "contactSend": "Send"
+}
