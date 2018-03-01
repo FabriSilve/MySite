@@ -32,7 +32,7 @@
     <meta property="og:description" content=" <?php echo $strings['description']; ?> "/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="silvestri.online"/>
-    <meta property="og:image" content="img/banner-link.jpg"/>
+    <!--<meta property="og:image" content="img/banner-link.jpg"/>-->
     <meta property="og:site_name" content=" <?php echo $strings['title']; ?> "/>
     <meta property="fb:admins" content=" <?php echo $strings['credentials']; ?>"/>
     <meta property="og:locale" content=" <?php echo $strings['lang']; ?> "/>
@@ -45,7 +45,7 @@
 
     <!-- Custom fonts for this template -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <!-- todo import font from google -->
+    <!-- import font from google -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -74,16 +74,16 @@
                     <a class="nav-link js-scroll-trigger" href="#knowledge"><?php echo $strings["knowledge"]; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#portfolio"><?php echo $strings["portfolio"]; ?></a> <!-- todo edit -->
+                    <a class="nav-link js-scroll-trigger" href="#portfolio"><?php echo $strings["portfolio"]; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#training"><?php echo $strings["training"]; ?></a> <!-- todo edit -->
+                    <a class="nav-link js-scroll-trigger" href="#training"><?php echo $strings["training"]; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#team"><?php echo $strings["team"]; ?></a> <!-- todo edit -->
+                    <a class="nav-link js-scroll-trigger" href="#team"><?php echo $strings["team"]; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#contact"><?php echo $strings["contact"]; ?></a> <!-- todo edit -->
+                    <a class="nav-link js-scroll-trigger" href="#contact"><?php echo $strings["contact"]; ?></a>
                 </li>
                 <li class="nav-item">
                     <?php
@@ -103,9 +103,9 @@
 <header class="masthead">
     <div class="container">
         <div class="intro-text">
-            <div class="intro-lead-in"><?php echo $strings["introSubtitle"]; ?></div> <!-- todo edit -->
-            <div class="intro-heading"><?php echo $strings["introTitle"]; ?></div> <!-- todo edit -->
-            <a class="btn btn-xl js-scroll-trigger" href="#knowledge"><?php echo $strings["introButton"]; ?></a> <!-- todo edit -->
+            <div class="intro-lead-in"><?php echo $strings["introSubtitle"]; ?></div>
+            <div class="intro-heading"><?php echo $strings["introTitle"]; ?></div>
+            <a class="btn btn-xl js-scroll-trigger" href="#knowledge"><?php echo $strings["introButton"]; ?></a>
         </div>
     </div>
 </header>
@@ -115,7 +115,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading"><?php echo $strings["knowledge"]; ?></h2> <!-- todo edit -->
+                <h2 class="section-heading"><?php echo $strings["knowledge"]; ?></h2>
                 <h3 class="section-subheading text-muted"><?php echo $strings["knowledgeSubtitle"]; ?></h3>
             </div>
         </div>
