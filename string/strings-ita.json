@@ -116,6 +116,18 @@
         "date": "Gennaio 2018",
         "for": "Corso: Tecniche Avanzate di Programmazione",
         "category": "C#"
+      },
+      {
+        "img": "img/portfolio/PCAD-thumbnail.jpg",
+        "title": "Software Amministrazione Acquario",
+        "subtitle": "Progetto per il corso di Programmazione Concorrente e Algoritmi Distribuiti",
+        "preview": "img/portfolio/PCAD-full.jpg",
+        "description": "Il progetto consiste in una componente lato server e una lato client.<br/>Nella prima si gestiscono le sale di un ipotetico acquario aggiungendo o rimuovendo collegamenti tra queste. Nell'area a destra sono visualizzati dati sugli utenti connessi e valori statistici delle sale.<br/>Nel lato client invece si effettua la registrazione al sistema e si visualizzano le informazioni delle sale potendo spostarsi in quelle adiacenti.",
+        "link": "https://github.com/FabriSilve/PCAD_Project",
+        "relation": null,
+        "date": "Febbraio 2017",
+        "for": "Corso: Programmazione Concorrente e Algoritmi Distribuiti",
+        "category": "Java"
       }
     ],
 

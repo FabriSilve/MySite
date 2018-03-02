@@ -116,6 +116,18 @@
       "date": "January 2018",
       "for": "Course: Advance Programming Technical",
       "category": "C#"
+    },
+    {
+      "img": "img/portfolio/PCAD-thumbnail.jpg",
+      "title": "Aquarium Administrator Software",
+      "subtitle": "Project for the course of Programming Concurrent And Distributed",
+      "preview": "img/portfolio/PCAD-full.jpg",
+      "description": "The project consists of a server side component and a client side.<br/>In the first one, the rooms of a hypothetical aquarium are managed by adding or removing links between them. The area on the right shows data on the connected users and statistical values of the rooms. <br/> In the client side, users could register in the system and the information of the rooms can be displayed and they could move to the adjacent halls.",
+      "link": "https://github.com/FabriSilve/PCAD_Project",
+      "relation": null,
+      "date": "February  2017",
+      "for": "Course: Programming Concurrent And Distributed",
+      "category": "Java"
     }
   ],
 
