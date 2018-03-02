@@ -104,6 +104,18 @@
         "date": "Dicembre 2017",
         "for": "Cliente: A.S.D.I. Liguria",
         "category": "web"
+      },
+      {
+        "img": "img/portfolio/TAP-thumbnail.jpg",
+        "title": "Libreria per Agenzia di viaggio",
+        "subtitle": "Progetto per il corso di Tecniche Avanzate di Programmazione",
+        "preview": "img/portfolio/TAP-full.jpg",
+        "description": "Il Progetto è una soluzione semplificata del problema della pianificazione di un viaggio tra le città, consiste in due componenti correlati:<br/><ul><li>La Componente della Travel Company, che viene utilizzata per gestire le confederazioni delle società di viaggio, dove le presenti Travel Company sono fornitrici di tratte città-città;</li><li>Il componente Planner, che utilizza le società di viaggio per pianificare viaggi multi-tratta tra città.</li></ul><br/>Tramite questo progetto ho preso confidenza con il linguaggio C# e la programmazione Test Driven Development.",
+        "link": "https://github.com/TAP2017/tap2017-18project-FabriSilve.git",
+        "relation": "pdf/TAP-TravelComponents.pdf",
+        "date": "Gennaio 2018",
+        "for": "Corso: Tecniche Avanzate di Programmazione",
+        "category": "C#"
       }
     ],
 

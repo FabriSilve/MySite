@@ -104,6 +104,18 @@
       "date": "December 2017",
       "for": "Clients: A.S.D.I. Liguria",
       "category": "web"
+    },
+    {
+      "img": "img/portfolio/TAP-thumbnail.jpg",
+      "title": "Library for Travel Agency",
+      "subtitle": "Advance Programming Technical Project",
+      "preview": "img/portfolio/TAP-full.jpg",
+      "description": "The project is a toy solution to the problem of planning trips between cities, and consists of two related components:<br/><ul><li>The Travel Company Component, which is used to manage confederations of Travel Companies, where any Travel Company is a provider of point-to-point legs;</li><li>The Planner Component, which uses Travel Companies to plan a multi-hops trips between cities.</li><ul><br/>Through this project I became familiar with the C # language and Test Driven Development programming.",
+      "link": "https://github.com/TAP2017/tap2017-18project-FabriSilve.git",
+      "relation": "pdf/TAP-TravelComponents.pdf",
+      "date": "January 2018",
+      "for": "Course: Advance Programming Technical",
+      "category": "C#"
     }
   ],
 
