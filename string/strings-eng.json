@@ -6,7 +6,7 @@
   "credentials": "Silvestri Fabrizio",
   "keywords": "web developer, web designer, computer, technology, website",
   "title": "Silvestri Fabrizio | Developer",
-  "knowledge":"Knowledges",
+  "knowledge":"Knowledge",
   "portfolio":"Portfolio",
   "training": "Training",
   "team":"Team",
@@ -31,28 +31,28 @@
     {
       "icon": "fa-android",
       "title": "App Android",
-      "body": "Project and development of android applications with care for design and user experience."
+      "body": "Project and development of android applications with attention to design and user experience."
     },
     {
       "icon": "fa-laptop",
       "title": "C# e Java",
-      "body": "Good level of object-oriented programming and knowledge of Eclipse and Visual Studio IDE."
+      "body": "Good level of object-oriented programming and knowledge of IDE such as Eclipse and Visual Studio."
     },
     {
       "icon": "fa-bug",
       "title": "Testing",
-      "body": "I test my software via Framework (JUnit, NUnit)."
+      "body": "I am used to test my software via Framework (JUnit, NUnit)."
     },
     {
       "icon": "fa-code-fork",
       "title": "Versioning",
-      "body": "Excellent knowledge of the GIT terminal commands and of GitHub portal."
+      "body": "Excellent knowledge of the GIT terminal commands and GitHub."
     }
   ],
 
   "portfolioSubtitle": "My Projects",
   "visit": "visit",
-  "relation": "relation",
+  "relation": "report",
   "date": "Date",
   "category": "Category",
   "closeProject": "Close Project",
@@ -60,9 +60,9 @@
     {
       "img": "img/portfolio/EventAround-thumbnail.jpg",
       "title": "EventAround",
-      "subtitle": "Websito to find events.",
+      "subtitle": "Website to find events.",
       "preview": "img/portfolio/EventAround-full.jpg",
-      "description": "Developed for a university project. The application allows you to search on a map events entered by users using search filters. <br/> Each user can add new events and manage them, report their interest in other events and view the profiles of other users. <Br / > The project also contains a part reserved for administrators to help manage the platform.",
+      "description": "Developed for a university project. The application allows you to search events on a map. <br/> Users can add new events and manage them. They could report their interest following events and view the profiles of other users. <Br / > The project also contains a reserved part for administrators.",
       "link": "http://webdev.dibris.unige.it/~S4116422",
       "relation": "pdf/EventAround.pdf",
       "date": "July 2017",
@@ -74,7 +74,7 @@
       "title": "EventAround App",
       "subtitle": "Android App to find events.",
       "preview": "img/portfolio/EventAroundApp-full.png",
-      "description": "Application that incorporates the functionality of the previously developed EventAround site. <br/> It allows you to search for events and add them to the system. It also has the functionality of notifying the presence of affected events and other features.",
+      "description": "Developed for a university project. The application allows you to search for events and add them to the system. It also has the functionality of notifying followed events news and other features.",
       "link": null,
       "relation": "pdf/EventAroundApp.pdf",
       "date": "October 2017",
@@ -84,9 +84,9 @@
     {
       "img": "img/portfolio/Parisi-thumbnail.jpg",
       "title": "Rocco Parisi",
-      "subtitle": "Site of the musician Rocco Parisi.",
+      "subtitle": "Website about the musician Rocco Parisi.",
       "preview": "img/portfolio/Parisi-full.jpg",
-      "description": "Dynamic site that allows you to view all the new activities of the musician updated through an administrative area.",
+      "description": "Website that show all the new activities of the musician updated through an administrative area.",
       "link": "http://www.roccoparisi.com",
       "relation": null,
       "date": "September 2017",
@@ -96,9 +96,9 @@
     {
       "img": "img/portfolio/ASDI-thumbnail.jpg",
       "title": "A.S.D.I. Liguria",
-      "subtitle": "Site for O.N.L.U.S. Association",
+      "subtitle": "Website for O.N.L.U.S. Association",
       "preview": "img/portfolio/ASDI-full.jpg",
-      "description": "Update of the A.S.D.I. Liguria website implementing a responsive design and greater fluidity in the nanvigation in order to immediately obtain the main information. Developed using Bootstrap animations and graphics.",
+      "description": "Update of the A.S.D.I. Liguria website implementing a responsive design and greater fluidity in the navigation. Developed using Bootstrap animations.",
       "link": "http://silvestri.online/ASDILiguria/",
       "relation": null,
       "date": "December 2017",
@@ -110,7 +110,7 @@
       "title": "Library for Travel Agency",
       "subtitle": "Advance Programming Technical Project",
       "preview": "img/portfolio/TAP-full.jpg",
-      "description": "The project is a toy solution to the problem of planning trips between cities, and consists of two related components:<br/><ul><li>The Travel Company Component, which is used to manage confederations of Travel Companies, where any Travel Company is a provider of point-to-point legs;</li><li>The Planner Component, which uses Travel Companies to plan a multi-hops trips between cities.</li><ul><br/>Through this project I became familiar with the C # language and Test Driven Development programming.",
+      "description": "The project is a toy solution to the problem of planning trips between cities. It consists of two related components:<br/><ul><li>The Travel Company Component: it is used to manage confederations of Travel Companies, any Travel Company is a provider of point-to-point legs;</li><li>The Planner Component: it uses Travel Companies to plan a multi-hops trips between cities.</li><ul><br/>With this project I became familiar with the C# language and Test Driven Development.",
       "link": "https://github.com/TAP2017/tap2017-18project-FabriSilve.git",
       "relation": "pdf/TAP-TravelComponents.pdf",
       "date": "January 2018",
@@ -120,9 +120,9 @@
     {
       "img": "img/portfolio/PCAD-thumbnail.jpg",
       "title": "Aquarium Administrator Software",
-      "subtitle": "Project for the course of Programming Concurrent And Distributed",
+      "subtitle": "Programming Concurrent And Distributed Project",
       "preview": "img/portfolio/PCAD-full.jpg",
-      "description": "The project consists of a server side component and a client side.<br/>In the first one, the rooms of a hypothetical aquarium are managed by adding or removing links between them. The area on the right shows data on the connected users and statistical values of the rooms. <br/> In the client side, users could register in the system and the information of the rooms can be displayed and they could move to the adjacent halls.",
+      "description": "The project consists in a server side component and a client side.<br/>In the first one, the rooms of a hypothetical aquarium are managed. The area on the right shows information about connected users and statistical values of the rooms. <br/> In the client side, users could register in the system. They could read the information about the rooms and they could move following paths.",
       "link": "https://github.com/FabriSilve/PCAD_Project",
       "relation": null,
       "date": "February  2017",
@@ -136,32 +136,32 @@
     {
       "img": "img/about/1.jpg",
       "date": "2012",
-      "title": "Diploma Superiori",
-      "description": "Mi sono diplomato all'ITIS I. Calvino di Genova, indirizzo Scientifico Tecnologico. Lo stesso anno mi sono iscritto ad Ingegneria Informatica."
+      "title": "High School Diploma",
+      "description": "I graduated from ITIS I. Calvino of Genoa. The same year I started the Computer Engineering university."
     },
     {
       "img": "img/about/2.jpg",
       "date": "2014",
-      "title": "Iscrizione Scienze Informatiche",
-      "description": "Ho riconosciuto che ingegneria non era la strada corretta per me e ho deciso di iscrivermi al corso di Laurea in Informatica sempre presso l'Università degli Studi di Genova."
+      "title": "Computer Science University",
+      "description": "I recognized that engineering was not the right way for me. I decided to starts the Computer Science course at the University of Genoa."
     },
     {
       "img": "img/about/3.jpg",
       "date": "Ottobre 2016",
-      "title": "Corso ICL-PRO",
-      "description": "Ho seguito un corso presso l'Istituto Gamma di Milano ottenendo la certificazione ICL-PRO Technical Specialist. Ho maturato così le competenze da Tecnico Informatico."
+      "title": "ICL-PRO Technical Course",
+      "description": "I attended a course at the Gamma Institute of Milan obtaining the ICL-PRO Technical Specialist certification. I gained the skills of an IT technician."
     },
     {
       "img": "img/about/5.jpg",
       "date": "11/2017 to 02-/2018",
       "title": "Internship with IFM Group",
-      "description": "I have done a internship with IFM Group where I have develop a Web Dashboard to visualize users data. I done experience with Angular 5 framework and this is the main argument of my thesis."
+      "description": "I have done an internship with IFM Group for my Thesis. I have developed a Web Dashboard to visualize users data. I have used Angular 5 and Bootstrap frameworks."
     },
     {
       "img": "img/about/4.jpg",
       "date": "2018",
       "title": "Computer Science degree",
-      "description": "I plan to complete my studies in July of 2018."
+      "description": "I plan to complete my studies in July 2018."
     }
 
   ],
