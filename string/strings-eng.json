@@ -128,7 +128,19 @@
       "date": "February  2017",
       "for": "Course: Programming Concurrent And Distributed",
       "category": "Java"
+    },{
+      "img":"img/portfolio/PocketIFM-thumbnail.jpg",
+      "title": "Thesis: Framework Angular",
+      "subtitle": "Developed during internship in IFM Group",
+      "preview": "img/portfolio/PocketIFM-full.jpg",
+      "description": "The main aim of the project was develop a web application that exemplified how use company web api.",
+      "link": "https://fabrisilve.github.io/PocketIFM/",
+      "relation": "https://github.com/FabriSilve/PocketIFM",
+      "date": "February 2018",
+      "for": "Company: IFM Group",
+      "category": "Web"
     }
+
   ],
 
   "trainingSubtitle": "My name is Fabrizio Silvestri and I was born in Genoa on May 1993.",

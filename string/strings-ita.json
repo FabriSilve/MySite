@@ -128,6 +128,18 @@
         "date": "Febbraio 2017",
         "for": "Corso: Programmazione Concorrente e Algoritmi Distribuiti",
         "category": "Java"
+      },
+      {
+        "img":"img/portfolio/PocketIFM-thumbnail.jpg",
+        "title": "Tesi: Framework Angular",
+        "subtitle": "Progetto svolto durante il tirocinio presso IFM Group",
+        "preview": "img/portfolio/PocketIFM-full.jpg",
+        "description": "Lo scopo del progetto svolto durante il tirocinio era lo sviluppo di un applicativo che esemplificasse l’uso delle Web Api messe a disposizione dall’azienda.",
+        "link": "https://fabrisilve.github.io/PocketIFM/",
+        "relation": "https://github.com/FabriSilve/PocketIFM",
+        "date": "Febbraio 2018",
+        "for": "Azienda: IFM Group",
+        "category": "Web"
       }
     ],
 

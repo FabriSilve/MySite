@@ -287,13 +287,13 @@
 
     <div class="container text-center">
         <h3><?php echo $strings['badgesTitle']; ?></h3>
-        <div class="row">
+        <div class="row container">
             <div class="col-sm-1 hidden-xs"></div>
             <?php
             for($i = 0; $i < count($strings['badges']); $i++) {
                 $badgeItem = $strings['badges'][$i];
                 ?>
-                <div class="col-md-2 col-sm-4 col-xs-4">
+                <div class="col-sm-2 col-xs-3">
                     <a target="_blank" href="<?php echo $badgeItem['link']; ?>">
                         <img class="img-fluid d-block mx-auto" src="<?php echo $badgeItem['img']; ?>" alt="<?php echo $badgeItem['alt']; ?>">
                     </a>
