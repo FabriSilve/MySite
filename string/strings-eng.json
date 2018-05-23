@@ -21,12 +21,12 @@
     {
       "icon": "fa-database",
       "title": "Database",
-      "body": "Design and maintenance of SQL Database (MySQL and PostgreSQL) and basic knowledge of NoSQL Database (MongoDB)."
+      "body": "Design and maintenance of relational Database (MySQL, PostgreSQL and MySQLi) and basic knowledge of NoSQL Database (MongoDB)."
     },
     {
       "icon": "fa-code",
       "title": "Web Application",
-      "body": "I have a very good knowledge of programming languages such as HTML5, CSS3, JS and PHP."
+      "body": "I have deep knowledge in programming languages such as HTML5, CSS3, JS and PHP. I have also done some projects with MEAN stack."
     },
     {
       "icon": "fa-android",
@@ -63,7 +63,7 @@
       "subtitle": "Website to find events.",
       "preview": "img/portfolio/EventAround-full.jpg",
       "description": "Developed for a university project. The application allows you to search events on a map. <br/> Users can add new events and manage them. They could report their interest following events and view the profiles of other users. <Br / > The project also contains a reserved part for administrators.",
-      "link": "http://webdev.dibris.unige.it/~S4116422",
+      "link": null,
       "relation": "pdf/EventAround.pdf",
       "date": "July 2017",
       "for": "Course: Web Application Development - UNIGE",

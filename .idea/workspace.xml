@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d36abd8-6e0d-4191-b174-6e4f9cdd58a7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/PCAD-full.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/PCAD-thumbnail.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/PocketIFM-full.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/PocketIFM-thumbnail.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/TAP-full.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/TAP-thumbnail.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/string/note" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/ASDI-thumbnail.jpg" afterPath="$PROJECT_DIR$/img/portfolio/ASDI-thumbnail.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/EventAround-thumbnail.jpg" afterPath="$PROJECT_DIR$/img/portfolio/EventAround-thumbnail.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/EventAroundApp-thumbnail.jpg" afterPath="$PROJECT_DIR$/img/portfolio/EventAroundApp-thumbnail.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/PCAD-thumbnail.jpg" afterPath="$PROJECT_DIR$/img/portfolio/PCAD-thumbnail.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/Parisi-thumbnail.jpg" afterPath="$PROJECT_DIR$/img/portfolio/Parisi-thumbnail.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/PocketIFM-thumbnail.jpg" afterPath="$PROJECT_DIR$/img/portfolio/PocketIFM-thumbnail.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/TAP-thumbnail.jpg" afterPath="$PROJECT_DIR$/img/portfolio/TAP-thumbnail.jpg" />
       <change beforePath="$PROJECT_DIR$/string/strings-eng.json" afterPath="$PROJECT_DIR$/string/strings-eng.json" />
       <change beforePath="$PROJECT_DIR$/string/strings-ita.json" afterPath="$PROJECT_DIR$/string/strings-ita.json" />
     </list>
@@ -25,8 +26,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="295" column="36" lean-forward="false" selection-start-line="295" selection-start-column="36" selection-end-line="295" selection-end-column="36" />
+            <state relative-caret-position="306">
+              <caret line="168" column="49" lean-forward="false" selection-start-line="168" selection-start-column="49" selection-end-line="168" selection-end-column="49" />
               <folding>
                 <marker date="1520074354809" expanded="true" signature="524:544" ph="..." />
               </folding>
@@ -34,24 +35,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings-ita.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="strings-ita.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/string/strings-ita.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="140" column="20" lean-forward="false" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
+            <state relative-caret-position="944">
+              <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
               <folding>
                 <element signature="e#676#1796#0" expanded="false" />
-                <element signature="e#10249#11099#0" expanded="false" />
+                <element signature="e#10212#11062#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings-eng.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="strings-eng.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/string/strings-eng.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="139" column="21" lean-forward="false" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
+            <state relative-caret-position="-595">
+              <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -102,8 +103,9 @@
         <option value="$PROJECT_DIR$/ASDILiguria/index.html" />
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/string/strings-eng.json" />
         <option value="$PROJECT_DIR$/string/strings-ita.json" />
+        <option value="$PROJECT_DIR$/string/note" />
+        <option value="$PROJECT_DIR$/string/strings-eng.json" />
       </list>
     </option>
   </component>
@@ -135,7 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,13 +165,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lpaa" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="git&#9;ACTION&#9;Git.ContextMenu&#10;header&#9;FILE&#9;file://C:/xampp/htdocs/silvestri/3.0/img/header-bg.jpg" />
+    <property name="SearchEverywhereHistoryKey" value="update&#9;ACTION&#9;Vcs.UpdateProject&#10;git&#9;ACTION&#9;Git.ContextMenu&#10;header&#9;FILE&#9;file://C:/xampp/htdocs/silvestri/3.0/img/header-bg.jpg" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
@@ -246,7 +248,10 @@
       <workItem from="1519982621620" duration="3972000" />
       <workItem from="1519990132952" duration="1936000" />
       <workItem from="1520068149911" duration="4756000" />
-      <workItem from="1521884081844" duration="1693000" />
+      <workItem from="1521884081844" duration="1789000" />
+      <workItem from="1524034156975" duration="188000" />
+      <workItem from="1526984750054" duration="33000" />
+      <workItem from="1527087306724" duration="1170000" />
     </task>
     <task id="LOCAL-00001" summary="Fix image link">
       <created>1519909183078</created>
@@ -276,11 +281,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520071908712</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add thesis">
+      <created>1521885806738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521885806738</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68502000" />
+    <option name="totallyTimeSpent" value="69989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,16 +309,16 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21035598" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3267776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20045386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17170954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -328,14 +340,14 @@
     <MESSAGE value="Added TAP Project" />
     <MESSAGE value="Added PCAD Project" />
     <MESSAGE value="fixed translating error in english page&#10;fix badges display" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed translating error in english page&#10;fix badges display" />
+    <MESSAGE value="add thesis" />
+    <option name="LAST_COMMIT_MESSAGE" value="add thesis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/works/game/index.php" />
     <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/works/game/main.js" />
     <entry file="file://$PROJECT_DIR$/works/game/index.php" />
@@ -549,10 +561,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/string/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/strings-ita.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+          <folding>
+            <element signature="e#676#1796#0" expanded="false" />
+            <element signature="e#10212#11062#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="295" column="36" lean-forward="false" selection-start-line="295" selection-start-column="36" selection-end-line="295" selection-end-column="36" />
+        <state relative-caret-position="306">
+          <caret line="168" column="49" lean-forward="false" selection-start-line="168" selection-start-column="49" selection-end-line="168" selection-end-column="49" />
           <folding>
             <marker date="1520074354809" expanded="true" signature="524:544" ph="..." />
           </folding>
@@ -561,20 +591,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/string/strings-eng.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="139" column="21" lean-forward="false" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
+        <state relative-caret-position="-595">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="21" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/strings-ita.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="140" column="20" lean-forward="false" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
-          <folding>
-            <element signature="e#676#1796#0" expanded="false" />
-            <element signature="e#10249#11099#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>

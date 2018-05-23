@@ -63,7 +63,7 @@
         "subtitle": "Sito web per la ricerca di eventi.",
         "preview": "img/portfolio/EventAround-full.jpg",
         "description": "Sviluppato per un progetto universitario. L'applicativo permette di ricercare su una mappa eventi inseriti dagli utenti utilizzando dei filtri di ricerca.<br/>Ogni utente può aggiungere nuovi eventi ed amministrarli, segnalare il proprio interesse verso altri eventi e visionare i profili degli altri utenti.<br/>Il progetto contiene anche una parte riservata agli amministratori per porter gestire la piattaforma.",
-        "link": "http://webdev.dibris.unige.it/~S4116422",
+        "link": null,
         "relation": "pdf/EventAround.pdf",
         "date": "Lugio 2017",
         "for": "Corso: Sviluppo Applicativi Web - UNIGE",
@@ -248,3 +248,4 @@
     "contactMessage": "Il tuo Messaggio",
     "contactSend": "Invia"
   }
+
