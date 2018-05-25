@@ -140,6 +140,17 @@
         "date": "Febbraio 2018",
         "for": "Azienda: IFM Group",
         "category": "Web"
+      },{
+        "img":"img/portfolio/Reddit-thumbnail.jpg",
+        "title": "Reddit Client",
+        "subtitle": "Un interfaccia client che utilizza le Web API di Reddit",
+        "preview": "img/portfolio/Reddit-full.jpg",
+        "description": "Questo progetto è un client responsive basato sulle Web API di Rddit. L'obiettivo principale di questo progetto era il fare pratica con le interfacce utente dinamiche. L'utente ha la possibilità di effettuare ricerche tramite parole chiave e aprire un elemento per poterne leggere descrizione e commenti<br/><br/><strong>Front End:</strong> HTML5, CSS3, TypeScript, Angular, Bootstrap - <strong>Back End:</strong> Reddit Web API",
+        "link": "https://fabrisilve.github.io/RedditTest/",
+        "relation": "https://github.com/FabriSilve/RedditTest",
+        "date": "Aprile 2018",
+        "for": "Pratica",
+        "category": "Web"
       }
     ],
 

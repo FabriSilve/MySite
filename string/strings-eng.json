@@ -110,7 +110,7 @@
       "title": "Library for Travel Agency",
       "subtitle": "Advance Programming Technical Project",
       "preview": "img/portfolio/TAP-full.jpg",
-      "description": "The project is a toy solution to the problem of planning trips between cities. It consists of two related components:<br/><ul><li>The Travel Company Component: it is used to manage confederations of Travel Companies, any Travel Company is a provider of point-to-point legs;</li><li>The Planner Component: it uses Travel Companies to plan a multi-hops trips between cities.</li><ul><br/>With this project I became familiar with the C# language and Test Driven Development.<br/><br/><strong>Technologies:</strong> C#, EntityFramework, Ninject, NUnit, SQLExpress",
+      "description": "The project is a toy solution to the problem of planning trips between cities. It consists of two related components: The Travel Company Component: it is used to manage confederations of Travel Companies, any Travel Company is a provider of point-to-point legs; The Planner Component: it uses Travel Companies to plan a multi-hops trips between cities. With this project I became familiar with the C# language and Test Driven Development.<br/><br/><strong>Technologies:</strong> C#, EntityFramework, Ninject, NUnit, SQLExpress",
       "link": null,
       "relation": "pdf/TAP-TravelComponents.pdf",
       "date": "January 2018",
@@ -138,6 +138,17 @@
       "relation": "https://github.com/FabriSilve/PocketIFM",
       "date": "February 2018",
       "for": "Company: IFM Group",
+      "category": "Web"
+    },{
+      "img":"img/portfolio/Reddit-thumbnail.jpg",
+      "title": "Reddit Client",
+      "subtitle": "A client interface based on Reddit Web API",
+      "preview": "img/portfolio/Reddit-full.jpg",
+      "description": "It's a responsive client based on Reddit Web API. The main goal of this project is doing practice with dynamic UI. The project allow users to do research by key-words and focus on one item to see its description and comments<br/><br/><strong>Front End:</strong> HTML5, CSS3, TypeScript, Angular, Bootstrap - <strong>Back End:</strong> Reddit Web API",
+      "link": "https://fabrisilve.github.io/RedditTest/",
+      "relation": "https://github.com/FabriSilve/RedditTest",
+      "date": "April 2018",
+      "for": "Practice",
       "category": "Web"
     }
 
